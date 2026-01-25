@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+h1  {
+    color: darkblue
+}
+
+footer {
+    background-color: #333; 
+    color: #fff;           
+    padding: 20px;         
+    text-align: center;}    
+
+footer a {
+    color: #f1c40f;       
+    text-decoration: none;
+}
+
+nav a {
+    margin: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+    padding: 5px;
+}
+ .popular {
+    background-color: white;
+    color: royalblue;
+ }
+
+ nav {
+    padding: 10px;
+ }
+
+ select {
+    padding: 10px;
+    background-color: white;
+    color: royalblue;
+    border-radius: 10px;
+    font-size: 20px;
+    border: 3px solid navy;
+ }
+
+ select option {
+    color: white;
+    background-color: navy;
+ }
+ 
+ .cls {
+    background-color: lightgreen;
+    padding: 10px;
+
+ }
+
+ main{
+    margin: 10px;
+ }
+
+ h2 {
+    background-color: black;
+    color: white;
+ }
+
+ .cclk {
+    border:1px solid red;
+    text-decoration: none;
+    background-color: aqua;
+    color: black
+ }
